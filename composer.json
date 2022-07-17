@@ -1,0 +1,21 @@
+{
+    "name": "lyreq/vodafonemall-api",
+    "type": "project",
+    "description": "VodafoneMall API with PHP",
+    "keywords": [
+        "Vodafone Mall API",
+        "PHP"
+    ],
+    "homepage": "https://github.com/lyreq/vodafone-mall-api",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yasin Timur",
+            "email": "infoyasintimur@gmail.com",
+            "role": "Backend Developer"
+        }
+    ],
+    "require": {
+        "lyreq/vodafone":"~1.0"
+    }
+}
