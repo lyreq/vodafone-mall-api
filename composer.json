@@ -17,6 +17,6 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "lyreq/lyreq":"1.0"
+        "lyreq/vodafone":"1.0"
     }
 }
