@@ -17,7 +17,8 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "lyreq/vodafone-mall-api":"1.0"
+        "lyreq/vodafone-mall-api":"1.0",
+        "master/core": "dev"
     },
     "autoload": 
     {
