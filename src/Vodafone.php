@@ -1,4 +1,7 @@
 <?php
+//Vodafone Mall API v10.5 by Yasin Timur
+//contact : infoyasintimur@gmail.com
+//date : 07/2022
 
 namespace Vodafone;
 
