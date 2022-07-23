@@ -16,6 +16,6 @@
         }
     ],
     "require": {
-        "lyreq/vodafone":"~1.0"
+        "lyreq/vodafone":"1.0"
     }
 }
