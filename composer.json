@@ -1,5 +1,5 @@
 {
-    "name": "lyreq/vodafone-mall-api",
+    "name": "lyreq/vodafonemall-api",
     "type": "project",
     "description": "VodafoneMall API with PHP",
     "keywords": [
@@ -16,17 +16,6 @@
         }
     ],
     "require": {
-        "php": ">=7.0.0",
-        "lyreq/vodafone-mall-api": "dev-master"
-         
-    },
-    "autoload": 
-    {
-        "psr-4": 
-           {
-               "Vodafone\\" : "src",
-               "Request\\" : "src/Request",
-               "Services\\" : "src/Services"
-           }
+        "lyreq/vodafone":"~1.0"
     }
 }
