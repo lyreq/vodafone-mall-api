@@ -20,5 +20,14 @@
         "lyreq/vodafone-mall-api":"1.0",
         "lyreq/vodafone-mall-api": "dev-master"
          
+    },
+    "autoload": 
+    {
+        "psr-4": 
+           {
+               "Vodafone\\" : "src",
+               "Request\\" : "src/Request",
+               "Services\\" : "src/Services"
+           }
     }
 }
